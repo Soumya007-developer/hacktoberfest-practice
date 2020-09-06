@@ -147,6 +147,7 @@ Questions can be asked by raising an `Issue`.
 - [Shubham Hadake](https://github.com/Shubham714)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
 - [SMak06](https://github.com/SMak06)
+- [Soumya Ranjan Ram](https://github.com/Soumya007-developer)
 - [Soumya Sharma](https://github.com/soumyaa1804)
 - [Srinath](https://github.com/srinath1412001)
 - [Suhaas](https://github.com/suhaaskataria)
